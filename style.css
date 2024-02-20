@@ -22,6 +22,7 @@ body {
     font-family: "Sono", monospace;
     font-optical-sizing: auto;
     font-variation-settings: "MONO" 0;
+    overflow-x: hidden;
 }
 video {
     border-radius: 1rem;
